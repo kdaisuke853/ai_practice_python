@@ -1,0 +1,2 @@
+# ai_practice_python
+Pythonの機械学習関連のライブラリを学習したいたときの記録(Google colaboratory)
